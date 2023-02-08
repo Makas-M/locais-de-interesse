@@ -1,4 +1,6 @@
+/*dimensoes do mapa*/
 #map { 
-	height: 750px;
-	width: 750px;
+	height: 500px;
+	width: 50%;
 }
+
